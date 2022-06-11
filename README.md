@@ -1,2 +1,1 @@
-My first readme
-Learning at ALX School
+Learning how to code at ALX School
